@@ -104,6 +104,7 @@
     - github : https://github.com/softcakeee/Metal_Detector_1
     - 펌웨어 개발 (아두이노 나노)
         - 코일을 활용한 도체 탐지 알고리즘 개발.
+        - ![Image](https://github.com/user-attachments/assets/a9a53e01-8e5c-4760-8ea9-94bc74077e71)
         - 홀센서를 이용한 이동거리 측정 알고리즘 개발.
         - 무선송수신 모듈을 이용한 무선 통신 알고리즘 개발.
         - 데이터 값 시각화 알고리즘 구현.
