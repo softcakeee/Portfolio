@@ -48,6 +48,7 @@
  -  맡은 역할
     - 소프트웨어 개발 담당
     - 사용언어 : C 및 python
+    - github : https://github.com/softcakeee/SmartFarm_RGV
     - 로봇 제어 프로그램 개발 (Raspberry PI)
 
        -  상위 제어 로직 구현
