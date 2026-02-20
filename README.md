@@ -112,6 +112,7 @@
 
 ---
 ### 졸업작품 : 금속탐지기 개발 2 (2024)
+![Image](https://github.com/user-attachments/assets/30dde965-de35-4142-8801-b0aaf9082ed8)
 -  대학교 4학년 2학기 졸업 작품 입니다.
 
 -  참여 인원 수
