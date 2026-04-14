@@ -172,7 +172,7 @@
     - 프로그래밍
     - 사용언어 C++
     - github : https://github.com/softcakeee/CCTV_PROJECT.git
-    - 펌웨어 개발 (Raspberry PI)
+    - Raspberry Pi 기반 소프트웨어 개발
        -  Raspberry Pi 4 기반의 헤드리스 환경에서 동작하도록 구성함.
        -  C++ / OpenCV / cpp-httplib를 사용해 실시간 영상 스트리밍 웹 서버를 구현함.
        -  브라우저에서 /video_feed를 통해 실시간 영상 확인이 가능하도록 구성함.
