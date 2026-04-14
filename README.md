@@ -5,10 +5,13 @@
 -  동양미래대학교 정보전자공학과 졸업(학사)
 
 ## Skills
-- C
+- C/C++
   - AVR/STM32 마이크로컨트롤러 펌웨어 개발
+  - Raspberry PI 펌웨어 개발
+  - opencv를 활용한 비전데이터 활용
 - Python
-  - opencv OCR 을 이용한 글자 인식 알고리즘 개발
+  - Raspberry PI 펌웨어 개발
+  - opencv를 활용한 비전데이터 활용
   
 ---
 ### 스마트팜 거터 운반로봇 개발
