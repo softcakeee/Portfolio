@@ -7,10 +7,10 @@
 ## Skills
 - C/C++
   - AVR/STM32 마이크로컨트롤러 펌웨어 개발
-  - Raspberry PI 펌웨어 개발
+  - Raspberry PI 기반 소프트웨어 개발
   - Opencv를 활용한 비전데이터 활용
 - Python
-  - Raspberry PI 펌웨어 개발
+  - Raspberry PI 기반 소프트웨어 개발
   - Opencv를 활용한 비전데이터 활용
   
 ---
@@ -155,7 +155,7 @@
   
 ---
 ### CCTV_PROJECT
--  C++ 공부용으로 진행한 프로젝트 입니다.
+-  C++ 학습과 시스템 구조 이해를 위해 진행한 프로젝트입니다.
 
 -  참여 인원 수
   - 1명
