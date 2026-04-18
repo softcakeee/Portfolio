@@ -75,7 +75,7 @@
      
  -  수행 내용
     - 프로그래밍 및 회로 설계/제작
-    - 사용언어 : Arduino(C/C++)
+    - 사용언어 : Arduino(C)
     - Github : https://github.com/softcakeee/Metal_Detector_1
     - 펌웨어 개발 (아두이노 나노)
         - 코일을 활용한 회로에서의 전류를 ADC를 사용하여 도체 탐지 알고리즘 개발.
