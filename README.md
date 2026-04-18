@@ -31,7 +31,7 @@
     - 소프트웨어 개발 담당
     - 사용언어 : C 및 Python
     - Github : https://github.com/softcakeee/SmartFarm_RGV
-    - 로봇 제어 프로그램 개발 (Raspberry PI)
+    - 로봇 제어 프로그램 개발 (Raspberry Pi)
 
        -  상위 제어 로직 구현
        -  OpenCV OCR 글자 인식을 통하여 로봇의 구간 인식 알고리즘 구현
