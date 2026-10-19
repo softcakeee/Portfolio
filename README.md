@@ -6,15 +6,19 @@
 
 ## Table of Contents
 - [스마트팜 거터 운반로봇 개발](#스마트팜-거터-운반로봇-개발)
-  - AVR/STM32 마이크로컨트롤러 펌웨어 개발
-  - Raspberry Pi 기반 소프트웨어 개발
-  - OpenCV를 활용한 비전데이터 활용
-- C++
-  - Raspberry Pi 기반 소프트웨어 개발
-  - OpenCV를 활용한 비전데이터 활용
-- Python
-  - Raspberry Pi 기반 소프트웨어 개발
-  - OpenCV를 활용한 비전데이터 활용
+  - ATMEGA128 ( C언어 ) / Raspberry Pi ( Python ) 사용
+  - ATMEGA128 ( TIMER , UART )
+  - Raspberry Pi ( OpenCV, OCR , UART )
+- [금속탐지기 1](#금속탐지기-1)
+  - 아두이노 ( C언어 )
+  - SPI , ADC 
+- [금속탐지기 2](#금속탐지기-2)
+  - STM32F103 ( C언어 ) / Raspberry Pi ( Python ) 사용
+  - STM32 ( TIMER , UART , ADC )
+  - Raspberry Pi ( UART , pygame , pyplot )
+- [CCTV PROJECT](#CCTV_PROJECT)
+  - Raspberry Pi ( C++ ) 사용
+  - cpp-httplib , OpenCV , mutex, atomic, condition variable
   
 ## Project
 ### 스마트팜 거터 운반로봇 개발
